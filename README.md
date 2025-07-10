@@ -25,3 +25,7 @@ Se vitórias for maior ou igual a 101 = Imortal
 
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**".
+
+
+## Resolução
+Nesse desafio criei diversos arquivos index para poder resolver o mesmo problema de diversas formas diferentes para poder testar tudo o que aprendi.
