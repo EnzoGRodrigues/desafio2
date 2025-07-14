@@ -10,8 +10,6 @@ function totalMatches() {
     return victories(120) - defeats(20)
 }
 
-// console.log(totalMatches())
-
 if (totalMatches() <= 10) {
     console.log(`O Herói tem saldo de ${totalMatches()} está no nível de Ferro`);
 } else if (totalMatches() >= 11 && totalMatches() <= 20) {
@@ -27,7 +25,4 @@ if (totalMatches() <= 10) {
 } else{
     console.log(`O Herói tem saldo de ${totalMatches()} está no nível de Imortal`);
 }
-
-
-
 
