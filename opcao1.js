@@ -1,3 +1,11 @@
+/*
+    Esta opção resolve o desafio usando: 
+    - função com e sem parâmetro.
+    - variáveis
+    - operadores lógicos
+    - switch (estrutura de decisão)
+ */
+
 function playedMatches(victory, defeat){ //função que retorna o valor do calculo vitórias - derrotas.
     return victory - defeat
 }

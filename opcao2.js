@@ -1,3 +1,11 @@
+/*
+    Esta opção resolve o desafio usando: 
+    - função com e sem parâmetro.
+    - variáveis
+    - operadores lógicos
+    - If, Else If, Else (estruturas condicionais)
+ */
+
 function victories(victory) {
     return victory
 }
