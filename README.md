@@ -28,4 +28,4 @@ Ao final deve se exibir uma mensagem:
 
 
 ## Resolução
-Nesse desafio criei diversos arquivos index para poder resolver o mesmo problema de diversas formas diferentes para poder testar tudo o que aprendi.
+Nesse desafio criei diversos arquivos "opcao" para poder resolver o mesmo desafio de diversas formas diferentes para poder testar tudo o que aprendi.
